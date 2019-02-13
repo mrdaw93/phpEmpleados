@@ -57,9 +57,9 @@
 	  
 	  <nav class="dropdownmenu">
    <ul>
-    <li><a href="condpto.php">Consultar Departamento</a></li>    
-    <li><a href="#">Consultar Consultar Salario</a></li>    
-    <li><a href="#">Consultar Categoria</a></li>    
+    <li><a href="condptoEmp.php">Consultar Departamento</a></li>    
+    <li><a href="consalEmp.php">Consultar Salario</a></li>    
+    <li><a href="concatEmp.php">Consultar Categoria</a></li>    
   </ul>
 </nav>
 	  
